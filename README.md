@@ -1,4 +1,4 @@
-# Image-Quality-Assessment-using-Cross-Entropy
+# Image-Quality-Assessment
 
 I have used 3 algorithms for Qulity Assesment.
 
